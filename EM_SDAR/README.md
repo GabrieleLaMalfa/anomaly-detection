@@ -1,1 +1,1 @@
-# expectation maximization (em) and SDAR algorithms + test
+# expectation maximization (em) and SDAR algorithms + scoring + test
